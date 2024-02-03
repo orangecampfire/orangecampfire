@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @orangecampfire
 - 👀 I’m interested in cryptography and anything coding related
-- 🌱 I’m currently learning how to make a game in python and sql
+- 🌱 I’m currently learning how to make a GUI in customtkinter using OOP
 
 <!---
 orangecampfire/orangecampfire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
