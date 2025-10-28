@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @orangecampfire
-- 👀 I’m interested in cryptography and anything coding related
-- 🌱 I’m currently learning how to XOR
+- 👋 Hi, I’m David
+- 👀 I’m interested in Cybersecurity, cryptography, and anything tech related
+- 🌱 I’m currently learning how to perform XSS
 
 <!---
 orangecampfire/orangecampfire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
